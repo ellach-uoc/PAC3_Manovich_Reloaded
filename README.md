@@ -1,5 +1,5 @@
 # PAC3: Visionant el futur amb les ulleres de Manovich
-## Un assaig sobre dos casos d'hibridació recent 
+### Un assaig sobre dos casos d'hibridació recent 
 
 ## Plantejament
 
