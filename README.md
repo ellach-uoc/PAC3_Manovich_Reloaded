@@ -57,4 +57,8 @@ Normalment aquestes composicions no fan servir només la mescla d’instruments 
 
 Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.  
 
-Reserved Advisor Limited (2024) **LeBlanc, Biography**. https://ra.co/dj/leblanc/biography
+Cowan, M. (2018). **Interactive media and imperial subjects: Excavating the cinematic shooting gallery**. https://doi.org/10.25969/mediarep/3438.
+
+Webmagic ventures LLC (s/d). **Dragon's Lair**. https://www.arcade-museum.com/Videogame/dragons-lair
+
+Reserved Advisor Limited (2024). **LeBlanc, Biography**. https://ra.co/dj/leblanc/biography
