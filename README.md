@@ -1,5 +1,9 @@
 # PAC3: Visionant el futur amb les ulleres de Manovich
-### Un assaig sobre dos casos d'hibridació recent 
+### Un assaig sobre dos casos d'hibridació recent
+
+Autor: Eduard Llach Galera
+
+Data: 16 Desembre del 2024
 
 ## Plantejament
 
@@ -25,13 +29,9 @@ Dragon’s Lair, si bé no va ser el primer en adoptar aquesta tècnica, si que 
 
 En aquesta pel·lícula animada l’espectador veu i sent una senyal que li indica quina acció espera que faci (canviar una direcció o activar l’espasa) i té uns breus instants per reaccionar. Si no ho fa a temps o s’equivoca, la pel·lícula canvia per mostrar-nos la mort del protagonista. Ho podem veure en aquest vídeo:
 
-[Dragon's Lair II: Time Warp (1991) (4K Upscale)](https://www.youtube.com/watch?v=0nEFWVXmHNQ)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/0nEFWVXmHNQ/0.jpg)](http://www.youtube.com/watch?v=0nEFWVXmHNQ "Dragon's Lair II: Time Warp (1991) (4K Upscale)")
 
 En conclusió, Dragon’s Lair és un exemple perfecte d’hibridació: fusiona dos medis per proporcionar una experiència nova. D’una banda canviant el llenguatge cinematogràfic de la pel·lícula, introduint la necessitat d’interacció de l’usuari per a que aquesta es desenvolupi. I de l’altra, la pel·lícula deixa de ser una seqüència lineal en un únic fitxer: Cal un índex d’escenes i la necessitat de poder saltar entre elles.
-
-Don Bluh, ex-animador de Diseny  
-Qualitat dels gràfics  
-[https://www.arcade-museum.com/Videogame/dragons-lair](https://www.arcade-museum.com/Videogame/dragons-lair)
 
 ## Re-descobrint la hibridació: Música acústica i música electrònica.
 
@@ -41,10 +41,20 @@ La música acúsica és aquella música que es reprodueix a través dels instrum
 
 La música electrònica és aquella música que es genera amb un dispositiu electrònic, ja sigui creada a partir un instrument mixt — com pot ser la guitarra elèctrica — o a través d’un dispositiu completament electrònic, com pot ser un ordindor o un sintetitzador de so. A diferència de la música d’orquestra, un únic aparell pot generar una infinitat de sons i tons, mantenint ritmes que en la música més tradicional ens semblen impossibles.
 
-Existeixen tot un seguit d’artistes, com LeBlanc, Ben Bohmer, Tinlicker, Kolsh o Worakls que experimenten mesclant música clàssica amb música electrònica. Podeu veure’n un exemple amb l’adaptació de *Lacrimosa*  [https://www.youtube.com/watch?v=sxgE8je65fU](https://www.youtube.com/watch?v=sxgE8je65fU) o Una Mattina https://www.youtube.com/watch?v=BhJPcEmfM7M
+Existeixen tot un seguit d’artistes, com LeBlanc, Ben Bohmer, Tinlicker, Kolsh o Worakls que experimenten mesclant música clàssica amb música electrònica. Podeu veure’n un exemple amb l’adaptació de 
+
+*Lacrimosa* 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/sxgE8je65fU/0.jpg)](http://www.youtube.com/watch?v=sxgE8je65fU "Lacrimosa")
+
+*Una Mattina*
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/BhJPcEmfM7M/0.jpg)](http://www.youtube.com/watch?v=BhJPcEmfM7M "Una Mattina")
 
 Normalment aquestes composicions no fan servir només la mescla d’instruments per crear una nova forma de composició, sino que com hem vist incorporen com a mitjà d’expressió el vídeo, un vídeo que canvia, muta i acompanya a la música. Un nou llenguatge — la remescla profunda — que sens dubte no seria possible sense l’ordinador i el software que el permet generar.
 
 ## Referències i bibliografia
 
 Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.  
+
+Reserved Advisor Limited (2024) **LeBlanc, Biography**. https://ra.co/dj/leblanc/biography
