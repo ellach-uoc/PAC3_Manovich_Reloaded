@@ -26,7 +26,7 @@ En aquesta pel·lícula animada l’espectador veu i sent una senyal que li indi
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0nEFWVXmHNQ/0.jpg)](http://www.youtube.com/watch?v=0nEFWVXmHNQ "Dragon's Lair II: Time Warp (1991) (4K Upscale)")
 
-Dragon’s Lair és un exemple perfecte d’hibridació: fusiona dos medis per proporcionar una experiència nova. D’una banda canviant el llenguatge cinematogràfic de la pel·lícula, introduint la necessitat d’interacció de l’usuari per a que aquesta es desenvolupi. I de l’altra, la pel·lícula deixa de ser una seqüència lineal en un únic fitxer: Cal un índex d’escenes i la necessitat de poder saltar entre elles.
+Si ens miressim amb les ulleres de Manovich, ens trobariem que la música electroacústica fomenta una **convergència de mitjans**, combinant el cinema i els videojocs d'ordinador. Aquest espai necessitat d'una **softwarització**, no seria possible de crear sense un software potent que permetés no només programar-lo, sino també jugar-hi. Hi trobaríem una **remediació**: No només no destrueix ni la indústria del cinema ni la dels videojocs, sino que els enriqueix i amplia. I finalment, hi ha una **hibridació cultural** creant un nou fet cultural a partir de la remescla de les anteriors, que crea una **experiència immersiva** en la que l'usuari és part de la pel·lícula.
 
 ## Re-descobrint la hibridació: Música acústica i música electrònica.
 
@@ -51,6 +51,9 @@ En podeu veure uns exemples en aquests enllaços
 Tot i que som capaços de reconèixer tant la peça clàssica com la peça electrònica, aquesta remescla crea un estil nou, que sens dubte no seria possible sense l’ordinador i el software que el permet generar. Aquest nou estil s'ha anomenat música electroacústica i els seus orígens es remunten ja a principis del segle XX, amb l'aparició dels primers instruments electrònics (si bé encara no digitals). Dins d'aquest terme s'ha unit tant la remescla de gèneres i cançons conegudes com la composició d'obres noves en la que aquesta simbiosi apareix de bon principi, com podria ser la recent banda sonora de Oppenheimer, de Ludwig Gorasson.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/4JZ-o3iAJv4/0.jpg)](http://www.youtube.com/watch?v=4JZ-o3iAJv4 "Can you hear the music")
+
+Si ens miressim amb les ulleres de Manovich, ens trobariem que la música electroacústica fomenta una **convergència de mitjans**, combinant els dos tipus de música i generant un espai híbrid. Aquest espai necessitat d'una **softwarització**, no seria possible de crear sense un software potent que permetés sintetitzar i combinar aquests són. Hi trobaríem una **remediació**: No només la música electroacústica no destrueix la música acústica ni l'electrònica, sino que les remescla i amplia. I finalment, hi ha una **hibridació cultural** creant un nou fet cultural a partir de la remescla de les anteriors.
+
 
 ## Referències i bibliografia
 
